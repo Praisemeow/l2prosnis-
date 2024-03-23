@@ -16,8 +16,8 @@
     [141, 93, 6],
     [15, 53, 126]
   ],
-  "token": "",
-  "chatid": "",
+  "token": "tokenid",
+  "chatid": "chatid",
   "pause_hotkey": "alt+q",
   "exit_hotkey": "ctrl+alt+q",
   "toggle_hotkeys": ["alt+f1", "alt+f2", "alt+f3", "alt+f4", "alt+f5"],
