@@ -1,0 +1,26 @@
+{
+  "coordinates": [
+    {"x": 104, "y": 63},
+    {"x": 320, "y": 63},
+    {"x": 104, "y": 63},
+    {"x": 278, "y": 49},
+    {"x": 400, "y": 92}
+  ],
+  "enable_checks": [true, false, false, false, true],
+  "s": 3,
+  "rgb_change_thresholds": [55, 85, 55, 85, 55],
+  "target_colors": [
+    [99, 15, 6],
+    [141, 93, 6],
+    [99, 15, 6],
+    [141, 93, 6],
+    [15, 53, 126]
+  ],
+  "token": "",
+  "chatid": "",
+  "pause_hotkey": "alt+q",
+  "exit_hotkey": "ctrl+alt+q",
+  "toggle_hotkeys": ["alt+f1", "alt+f2", "alt+f3", "alt+f4", "alt+f5"],
+  "copy_mouse_cords_hotkey": "alt+f5",
+  "target_class": "l2UnrealWWindowsViewportWindow"
+}
